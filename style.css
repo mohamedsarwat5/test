@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.box {
+    height: 200px;
+    width: 200px;
+}
+img{
+    border-radius: 10px;
+}
